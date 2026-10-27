@@ -12,7 +12,7 @@ SWDUI aims to simplify the boilerplate code for LUA UIs in the game Stormworks: 
 
 Even the minimized code is quite character-intensive, so using SWDUI does not make sense for scripts that contain a lot of logic in onTick().
 
-For a full documentation of all functions, views and view modifiers, visit Documentation.md.
+For a full documentation of **how to use**, all functions, views and view modifiers, visit Documentation.md.
 
 ## Example
 ```lua
